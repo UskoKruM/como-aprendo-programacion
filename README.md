@@ -29,6 +29,7 @@ Hoy compartiré contigo recursos gratuitos, sobre todo videos de YouTube, para a
     - https://www.youtube.com/watch?v=RqQ1d1qEWlE
     - https://www.youtube.com/watch?v=C4qsdeJ4SLk
     - https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
+    - https://www.youtube.com/watch?v=m2o-eeqwgkQ&list=PLpJ0pHgIwPoHeOw6_yRERfEF5pXjyAIcK
 - Java
     - https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk (salvo los Applets: videos del 132 al 136)
     - https://www.youtube.com/watch?v=2ZXiuh0rg3M&list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K
